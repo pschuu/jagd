@@ -87,7 +87,7 @@ Einsatz und Test von Ausrüstung für die Jagd](https://www.youtube.com/user/JAG
 
 [Jagdschein - Akademie - Zahnentwicklung](https://www.youtube.com/watch?v=7I9_UoB58sE&t=584s)
 
-
+<br><br>
 ## Podcast
 
 ### Kanzelklatsch
@@ -95,21 +95,58 @@ Einsatz und Test von Ausrüstung für die Jagd](https://www.youtube.com/user/JAG
 ![Kanzelklatsch](https://djz.de/wp-content/uploads/sites/3/2016/11/djz.jpg )
 
 [Kanzelklatsch – der Podcast der Deutschen Jagdzeitung. Über 30 Jahre gab es uns nur zu lesen oder seit 10 Jahren auch im Video zu sehen. Nun gibt’s was zu hören. Jeden Monat wird es einen Podcast zum Titelthema des aktuellen Heftes geben. Egal ob Ausrüstung, Jagdstrategien, Reviereinrichtungen oder Jagdhunde. Alles was mit Jagd zu tun hat, ist ein Thema für uns. Seien Sie gespannt!](https://www.youtube.com/watch?v=7I9_UoB58sE&t=584s)
-
+<br>
 ### FORSTCAST
 
 [Forstcast ist Waldwissen zum Hören für Waldfreunde und Waldexperten!
 Forstcast.net ist ein Projekt der Bayerischen Landesanstalt für Wald und Forstwirtschaft (LWF) und des Zentrums Wald-Forst-Holz, gefördert durch die Bayerische Forstverwaltung.](http://forstcast.waldradio.de/)
-
+<br>
 ### JAGDFUNK
 
 [„Der Jagdfunk ist ein kostenloser Interview-Podcast mit Jochen Schumacher. Es geht rund um die Jagd und die vielfältigen, damit in Zusammenhang stehenden Themen.“ – Sehr ausführliche und lange Episoden, die viele Details behandeln.](https://jagdfunk.de/)
-
+<br>
 ### JAGD & NATUR TV
 
 [Ein professionell aufbereiteter Österreichischer Videopodcast mit zahlreichen Sendeformaten. Diskussionsrunden, Potraits und aktuelle Jagd-Nachrichten aus Österreich.](http://www.jagdundnatur.tv/)
-
+<br>
 
 ### Jagdcast
 
 [Der Podcast für Jäger und andere Naturliebhaber](http://http://jagdcast.com/)
+<br>
+
+## Apps
+
+### Heintges Jagdtrainer
+
+![Heintges Jagdtrainer](https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/30/49/08/3049080f-d4f8-701b-464c-ca49c8fe0043/source/200x200bb.jpg) 
+
+
+| IOS   | Android  | 
+| :---: |:--:| 
+| ![Image name](https://github.com/pschuu/jagd/blob/master/App_Store_Icon_High_Sierra.png?raw=true)| ![Image name](https://raw.githubusercontent.com/pschuu/jagd/master/Download.png)| 
+| [Herunterladen](https://itunes.apple.com/de/app/heintges-jagdtrainer/id708200282?mt=8) | [Herunterladen](https://play.google.com/store/apps/details?id=ch.swift.itheoriede.hunt.heintges&hl=de) | 
+
+<br>
+
+### Jagdwetter APP
+
+![Jagdwetter](https://lh3.googleusercontent.com/YIWzwxHc3YbEOLvPt89mrB-t6LA5wncYKL4Nit_xyYXGLhpULzzc3-clKIg1Tq3WCZ0=s180-rw) 
+
+
+| IOS   | Android  | 
+| :---: |:--:| 
+| ![Image name](https://github.com/pschuu/jagd/blob/master/App_Store_Icon_High_Sierra.png?raw=true)| ![Image name](https://raw.githubusercontent.com/pschuu/jagd/master/Download.png)| 
+| [Herunterladen](https://itunes.apple.com/de/app/jagdwetter-com/id844053489?mt=8) | [Herunterladen](https://play.google.com/store/apps/details?id=de.dealino.jagdwetter&hl=de) | 
+
+<br>
+
+### Jagdhornsignale APP
+
+![Jagdwetter](https://lh3.googleusercontent.com/sinXtn3tZ41v8AFCdI-MBFr9EwVY7X6UJb5w-yIuJPAROVQHrXbsG0ysrBFiUmupZg=s180-rw) 
+
+
+| IOS   | Android  | 
+| :---: |:--:| 
+| ![Image name](https://github.com/pschuu/jagd/blob/master/App_Store_Icon_High_Sierra.png?raw=true)| ![Image name](https://raw.githubusercontent.com/pschuu/jagd/master/Download.png)| 
+| [Herunterladen](https://itunes.apple.com/de/app/jagdhornsignale-jagdm%C3%A4rsche/id793813932?mt=8) | [Herunterladen](https://play.google.com/store/apps/details?id=at.ncn.soundboardjagd&hl=de) | 
