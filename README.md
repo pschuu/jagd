@@ -56,6 +56,17 @@ Einsatz und Test von Ausrüstung für die Jagd](https://www.youtube.com/user/JAG
 [Jagdschein - Akademie - Lehrvideos Waffenhandhabung](https://www.youtube.com/watch?v=PfskuCRFzLM&list=PL88GEfasQ3MUXpDMVs6YYgh83qwWD3JJR)
 
 
+## 🔆 Wildtierkunde 🔆
+
+### Steckbrief Natur
+
+![Jungjäger](https://yt3.ggpht.com/a-/AN66SAwY9M_sAJmnMW2gGlO4QG30AOLXseOSft3vlg=s288-mo-c-c0xffffffff-rj-k-no)
+
+[Jungjäger - Aus unserer Reihe „ Steckbrief Natur “ zeigen wir euch Folge 01 Steckbrief Wildenten Lehr- und Lernvideos für Jagdscheinanwärter](https://www.youtube.com/watch?v=n6WIXKfYams&list=PLqbdR71MThtxrnrMeAM9HDpqAsPExJbhv)
+
+
+
+
 ## 🔆 Lernhilfen 🔆
 
 ### Eselsbrücken
